@@ -1,0 +1,5 @@
+HELLO=Hey there=Howdy
+WELL.=superbly well. Be careful among your journey. You may encounter hostiles during your quest to find the final room. Be safe. Good Luck.=awesome. Have a great journey!
+GIFTS=presents=consumables
+CARE=good care
+GOING=travelling

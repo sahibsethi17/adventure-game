@@ -1,0 +1,5 @@
+completion 0
+mood sadistic 0
+mood swing 0
+mood charismatic 0
+secret 0

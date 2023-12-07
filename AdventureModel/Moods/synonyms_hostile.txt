@@ -1,0 +1,5 @@
+HELLO=Ughh=Hi
+WELL.=terrible. There are trolls, and I hope you lose to them.=bad. Have a terrible journey.
+GIFTS=something for me to eat=something I can steal from you
+CARE=no care
+GOING=walking around

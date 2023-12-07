@@ -1,0 +1,5 @@
+HELLO=Hi=Greetings
+WELL.=great.=splendid. Have a great journey!
+GIFTS=food=something for me
+CARE=precaution in your journey
+GOING=moving

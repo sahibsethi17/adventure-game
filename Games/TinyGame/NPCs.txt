@@ -1,0 +1,35 @@
+1
+FRIENDLY HUMAN
+SAMMY SMITH
+Hello, adventurous player. My name is Sammy Smith (Short for Samuel). Hope your journey goes well. Take care (Also, I'd be happy to take some gifts from you).
+HIGH FIVE, FIST BUMP, HANDSHAKE
+
+2
+NEUTRAL HUMAN
+ARIANA JORDAN
+Hello, I'm Ariana Jordan, fellow adventurer like yourself. Hope your journey goes well. Take care (Also, I'd be happy to take some gifts from you).
+HIGH FIVE, FIST BUMP, HANDSHAKE
+
+3
+TROLL
+BABY TROLL
+HAHAHAHA, I am a BABY TROLL. Before entering this room, you must answer this question, or else... Who was the first person to enter space? Was it, A, Buzz Aldrin? Was it B, Neil Armstrong? Was it C, Yuri Gagarin, or was it D, Lance Armstrong?
+A, B, C, D
+C
+Drats! You have defeated me, you may pass along.
+WRONG ANSWER! I STOLE AN OBJECT FROM YOU! IF YOU WANT IT BACK, YOU MUST SELECT THE NPC BUTTON IN THE ROOM TO BATTLE ME AGAIN!
+
+4
+TROLL
+BIG TROLL
+I am a BIG TROLL. To get past me, you must answer this question. What is the capital city of Canada? A. Toronto B. Vancouver C. Edmonton D. Ottawa
+A, B, C, D
+D
+Correct. You got lucky this time.
+INCORRECT! I STOLE AN OBJECT FROM YOU! IF YOU WANT IT BACK, YOU MUST SELECT THE NPC BUTTON IN THE ROOM TO BATTLE ME AGAIN!
+
+5
+HOSTILE HUMAN
+SQUIDWARD
+*nasally* HAAYYY! Watch where you're going. I'm trying to play my clarinet here! Could you please go somewhere else?  (Also, I'd be happy to take some gifts from you).
+HIGH FIVE, FIST BUMP, HANDSHAKE
